@@ -1,0 +1,145 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.wishlistr.com/userdemo
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 27 Jul 2015 13:15:24 GMT
+      Server:
+      - Apache
+      X-Powered-By:
+      - PHP/5.2.17
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma:
+      - no-cache
+      Set-Cookie:
+      - PHPSESSID=1d5ao13iaqiov1eg0t3am19h77; path=/
+      Vary:
+      - Host,Accept-Encoding
+      Content-Length:
+      - '2660'
+      Connection:
+      - close
+      Content-Type:
+      - text/html; charset=UTF-8
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\">\n\n<head>\n  <title>Wishlistr
+        - User Demo&#039;s Wishlist</title>\n\n  <meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1.0\">\n  <meta name=\"description\" content=\"User Demo&#039;s
+        wishlist. See what User Demo desires.\" />\n  <meta name=\"keywords\" content=\"wishlist,
+        wish list, userdemo, User Demo\" />\n  <meta content=\"all\" name=\"robots\"
+        />\n\n  <link rel=\"shortcut icon\" href=\"/favicon.ico\" />\n  <link rel=\"stylesheet\"
+        type=\"text/css\" href=\"/_lib/css/main.css\" />\n\n    \n  <link rel=\"stylesheet\"
+        type=\"text/css\" media=\"print\" href=\"/_lib/css/template-print.css\" />\n
+        \ <link rel=\"stylesheet\" type=\"text/css\" href=\"/_lib/css/lightbox-gw.css\"
+        />\n  <link rel=\"alternate\" type=\"application/rss+xml\" title=\"User Demo&#039;s
+        wishlist\" href=\"http://www.wishlistr.com/rss/userdemo/\" />\n\n  </head>\n\n<body
+        id=\"view\">\n  \n  <div class=\"viewport\">\n\n  <div class=\"mobile-nav\">\n
+        \   <ul>\n      <li><a href=\"/\">Home</a></li>\n      <li><a href=\"/login/\">Login</a></li>\n
+        \     <li><a href=\"/signup/\">Signup</a></li>\n    </ul>\n  </div>\n\n  <div
+        class=\"page-container\">\n\n    <div id=\"header\">\n      <div id=\"top\">\n
+        \       <a href=\"/home/nav/\" class=\"mobile-nav-toggle\" id=\"m-nav-toggle\">\n
+        \         <i class=\"icon-list\"></i>\n          <span>Menu</span>\n        </a>\n
+        \       <div class=\"logo\"><a href=\"/\"><img src=\"/images/logo.png\" alt=\"logo\"
+        width=\"108\" height=\"25\" /></a></div>\n                <div id=\"nav\">\n
+        \         <ul>\n            <li><a href=\"/\">Home</a></li>\n            <li><a
+        href=\"/login/\">Login</a></li>\n            <li><a href=\"/signup/\">Signup</a></li>\n
+        \         </ul>\n        </div>\n      </div>\n    </div>\n\n  <div id=\"toolbar\">\n
+        \   <div class=\"inner-wrap\">\n      <div class=\"center\">\n        <div
+        id=\"nav-sub\">\n          <ul id=\"tabs\">\n            <li><a href=\"/rss/userdemo\"><i
+        class=\"icon-rss\"></i> Subscribe</a></li>\n                        <li><a
+        href=\"/tools/share/\" id=\"share-list\"><i class=\"icon-share\"></i> Share</a></li>\n
+        \         </ul>\n        </div>\n      </div>\n    </div>\n  </div>\n\n  \n
+        \ <div id=\"content\">\n\n    <div class=\"wrapper\">\n\n      <div class=\"main\">\n
+        \       <div class=\"wrap\">\n\n          <div class=\"section\">\n            \n
+        \                 <div class=\"list-top\">\n\n              <h2 id=\"wishlist-title\">Demo
+        Wishlist</h2>\n\n            </div>\n            <ul class=\"wishlist\"><li><div
+        class=\"img\"><img src=\"http&#x3a;&#x2f;&#x2f;ecx&#x2e;images&#x2d;amazon&#x2e;com&#x2f;images&#x2f;I&#x2f;61EcRF4cjJL&#x2e;&#x5f;SX314&#x5f;BO1&#x2c;204&#x2c;203&#x2c;200&#x5f;&#x2e;jpg\"></div><div
+        class=\"details\"><h4>Neuromancer</h4><p><a href=\"/go/3169395/\" title=\"http&#x3a;&#x2f;&#x2f;www&#x2e;amazon&#x2e;com&#x2f;Neuromancer&#x2d;William&#x2d;Gibson&#x2f;dp&#x2f;0441012035&#x2f;ref&#x3d;tmm&#x5f;hrd&#x5f;swatch&#x5f;0&#x3f;&#x5f;encoding&#x3d;UTF8&#x26;qid&#x3d;1438002831&#x26;sr&#x3d;8&#x2d;1\"
+        class=\"url\" rel=\"nofollow\" target=\"_blank\">Buy or view this item</a></p></div></li>\n<li><div
+        class=\"img\"><img src=\"http&#x3a;&#x2f;&#x2f;ecx&#x2e;images&#x2d;amazon&#x2e;com&#x2f;images&#x2f;I&#x2f;51WZTkQj29L&#x2e;&#x5f;SX295&#x5f;BO1&#x2c;204&#x2c;203&#x2c;200&#x5f;&#x2e;jpg\"></div><div
+        class=\"details\"><h4>The Hitchhiker&#039;s Guide to the Galaxy</h4><p><a
+        href=\"/go/3169388/\" title=\"http&#x3a;&#x2f;&#x2f;www&#x2e;amazon&#x2e;com&#x2f;Hitchhikers&#x2d;Guide&#x2d;Galaxy&#x2d;Douglas&#x2d;Adams&#x2f;dp&#x2f;0345391802&#x2f;ref&#x3d;sr&#x5f;1&#x5f;6&#x3f;ie&#x3d;UTF8&#x26;qid&#x3d;1438002645&#x26;sr&#x3d;8&#x2d;6&#x26;keywords&#x3d;neuromancer\"
+        class=\"url\" rel=\"nofollow\" target=\"_blank\">Buy or view this item</a></p></div></li>\n<li><div
+        class=\"img\"><img src=\"http&#x3a;&#x2f;&#x2f;ecx&#x2e;images&#x2d;amazon&#x2e;com&#x2f;images&#x2f;I&#x2f;51dATXSaGbL&#x2e;&#x5f;SX298&#x5f;BO1&#x2c;204&#x2c;203&#x2c;200&#x5f;&#x2e;jpg\"></div><div
+        class=\"details\"><h4>The Foundation Trilogy</h4><p><a href=\"/go/3169380/\"
+        title=\"http&#x3a;&#x2f;&#x2f;www&#x2e;amazon&#x2e;com&#x2f;Foundation&#x2d;Trilogy&#x2d;Isaac&#x2d;Asimov&#x2f;dp&#x2f;0307292061&#x2f;ref&#x3d;sr&#x5f;1&#x5f;5&#x3f;ie&#x3d;UTF8&#x26;qid&#x3d;1438002244&#x26;sr&#x3d;8&#x2d;5&#x26;keywords&#x3d;asimov\"
+        class=\"url\" rel=\"nofollow\" target=\"_blank\">Buy or view this item</a></p></div></li>\n</ul>\n\n</div>\n\n
+        \      <div class=\"aside\" id=\"aside\">\n          <ul class=\"user-stats\">\n
+        \           <li><a href=\"/profile/userdemo/followers/\">0 <span>Followers</span></a></li>\n
+        \           <li><a href=\"/profile/userdemo/following/\"><div id=\"followingCount\">1</div>
+        <span>Following</span></a></li>\n            <li><a href=\"/userdemo/\"><div
+        id=\"itemCount\">3</div> <span id=\"itemText\">Items</span></a></li>\n          </ul>\n\n
+        \         \n                    <div class=\"user-avatar\">\n            <a
+        href=\"/profile/userdemo/\"><img class=\"avatar\" src=\"&#x2f;images&#x2f;avatars&#x2f;userdemo&#x2e;jpg\"
+        alt=\"userdemo\" /></a>\n          </div>\n          \n          <ul class=\"profile\">\n
+        \           <li><strong><a href=\"/profile/userdemo/\">User Demo</a></strong></li>\n
+        \                       <li class=\"icon-location\">Salvador, BRA</li>\n                                    <li
+        class=\"icon-url\"><a href=\"http&#x3a;&#x2f;&#x2f;wishlistr&#x2e;com\" rel=\"nofollow\">http:&#x2F;&#x2F;wishlistr.com</a></li>\n
+        \                                                         </ul>\n\n                      <div
+        class=\"bio\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
+        ullamcorper sapien et eleifend aliquam. Maecenas facilisis aliquet mauris.</div>\n
+        \         \n                                          <a href=\"#\" class=\"service\"
+        rel=\"tooltip\" title=\"Birthday: 1991-10-30\"><i class=\"icon-birthday\"></i><em>30
+        October, 1991</em></a>\n          \n          \n                    <div class=\"following-info\">\n
+        \           <h3>Following</h3>\n                      </div>\n          <ul
+        class=\"follow-list\">\n                        <li><a href=\"/diegocosta\"><img
+        src=\"/images/avatars/diegocosta.jpg\" alt=\"diegocosta\" width=\"32\" height=\"32\"></a></li>\n\t\t
+        \             </ul>\n          <p class=\"more-friends\">\n                    <a
+        href=\"/explore/search\">Find friends</a> <span>|</span>\n          <a href=\"/\">Sign
+        up/Login</a>          </p>\n                  </div>\n\n          </div>\n
+        \       </div>\n    </div> <!-- Closes #content -->\n  </div> <!-- Closes
+        #wrapper -->\n\n  <div id=\"footer\">\n  <div class=\"inner-wrap\">\n    <p
+        class=\"logo\">\n      <a href=\"/\">\n        <img src=\"/images/logo-footer.png\"
+        width=\"109\" height=\"25\" />\n      </a>\n    </p>\n    <p class=\"footer-nav\">\n\t\t
+        \ <a href=\"/about/\" class=\"first\">About</a> |\n\t\t  <a href=\"/help/\">FAQ</a>
+        |\n\t\t  <a href=\"/blog/\">Blog</a> |\n\t\t  <a href=\"/contact/\">Contact</a>
+        |\n\t\t  <a href=\"/about/terms-of-use/\">Terms</a> |\n\t\t  <a href=\"/about/privacy-policy/\">Privacy</a>\n
+        \   </p>\n    <p>Copyright &copy; Wishlistr 2005-2015. All rights reserved.</p>\n
+        \ </div>\n</div>\n\n</div>\n</div>\n\n  <div id=\"overlay\"></div>\n\n  <div
+        id=\"share-box\" class=\"lightbox animate fade-in-down\">\n    <h2>Share this
+        wishlist</h2>\n\n  <div class=\"share-success\" id=\"share-success\"></div>\n
+        \ <input type=\"hidden\" name=\"uri\" id=\"share-uri\" value=\"userdemo\"
+        />\n\n    <form method=\"post\" action=\"/\">\n      <label for=\"email\">To:</label>\n
+        \     <input type=\"text\" name=\"email\" id=\"share-email\" class=\"form-text\"
+        placeholder=\"Email address\" />\n            <label for=\"email\">From:</label>\n
+        \     <input type=\"text\" name=\"name\" id=\"share-name\" class=\"form-text\"
+        placeholder=\"Your name\" />\n            <label for=\"message\">Custom message:</label>\n
+        \     <textarea cols=\"35\" rows=\"13\" name=\"message\" id=\"share-message\"
+        placeholder=\"Optional\"></textarea>\n\n      <div class=\"actions\">\n        <div
+        class=\"social\">\n          <a href=\"http://twitter.com/home?status=Wishlist
+        http://www.wishlistr.com/userdemo\" class=\"twitter\" title=\"Share on Twitter\"><i
+        class=\"icon-twitter\"></i> <em>Twitter</em></a>\n          <a href=\"http://www.facebook.com/share.php?u=http://www.wishlistr.com/userdemo\"
+        class=\"facebook\" title=\"Share on Facebook\"><i class=\"icon-facebook\"></i>
+        <em>Facebook</em></a>\n        </div>\n        <a href=\"#\" class=\"img\"><input
+        class=\"btn\" type=\"submit\" id=\"share-submit\" value=\"Share\" /></a>\n
+        \       <a href=\"#\" class=\"img cancel\"><input class=\"btn\" type=\"submit\"
+        id=\"share-cancel\" value=\"Cancel\" /></a>\n      </div>\n    </form>\n  </div>\n\n
+        \ \n  \n  \n  \n  <input type=\"hidden\" name=\"data-list-id\" id=\"data-list-id\"
+        value=\"263589\" />\n  <input type=\"hidden\" name=\"pltoken\" id=\"pltoken\"
+        value=\"8e0decef8a278d37511ee6256e694155\" />\n\n  <script src=\"/_lib/js/core.min.js\"
+        type=\"text/javascript\"></script>\n  <script src=\"/_lib/js/wishlist.min.js\"
+        type=\"text/javascript\"></script>\n\n  \n</body>\n</html>\n\n"
+    http_version: 
+  recorded_at: Mon, 27 Jul 2015 13:14:57 GMT
+recorded_with: VCR 2.9.3

@@ -1,0 +1,116 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.wishlistr.com/profile/userdemo
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 27 Jul 2015 13:15:25 GMT
+      Server:
+      - Apache
+      X-Powered-By:
+      - PHP/5.2.17
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma:
+      - no-cache
+      Set-Cookie:
+      - PHPSESSID=f8serplhugagggknkvc5uoa494; path=/
+      Vary:
+      - Host,Accept-Encoding
+      X-Frame-Options:
+      - SAMEORIGIN
+      Content-Length:
+      - '1825'
+      Connection:
+      - close
+      Content-Type:
+      - text/html; charset=UTF-8
+    body:
+      encoding: UTF-8
+      string: "\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\">\n\n<head profile=\"http://gmpg.org/xfn/11\">\n
+        \ <title>Wishlistr: userdemo&#039;s profile</title>\n\n  <meta name=\"viewport\"
+        content=\"width=device-width, initial-scale=1.0\">\n  <meta http-equiv=\"Content-Type\"
+        content=\"text/html; charset=UTF-8\" />\n  <meta name=\"description\" content=\"\"
+        />\n  <meta name=\"keywords\" content=\"\" />\n  <meta content=\"all\" name=\"robots\"
+        />\n\n  <link rel=\"shortcut icon\" href=\"/favicon.ico\" />\n  <link rel=\"stylesheet\"
+        type=\"text/css\" href=\"/_lib/css/main.css\" />\n  <link rel=\"stylesheet\"
+        type=\"text/css\" href=\"/_lib/css/lightbox-gw.css\" />\n</head>\n\n<body>\n\n
+        \ <div class=\"viewport\">\n\n  <div class=\"mobile-nav\">\n    <ul>\n      <li><a
+        href=\"/\">Home</a></li>\n      <li><a href=\"/login/\">Login</a></li>\n      <li><a
+        href=\"/signup/\">Signup</a></li>\n    </ul>\n  </div>\n\n  <div class=\"page-container\">\n\n
+        \   <div id=\"header\">\n      <div id=\"top\">\n        <a href=\"/home/nav/\"
+        class=\"mobile-nav-toggle\" id=\"m-nav-toggle\">\n          <i class=\"icon-list\"></i>\n
+        \         <span>Menu</span>\n        </a>\n        <div class=\"logo\"><a
+        href=\"/\"><img src=\"/images/logo.png\" alt=\"logo\" width=\"108\" height=\"25\"
+        /></a></div>\n                <div id=\"nav\">\n          <ul>\n            <li><a
+        href=\"/\">Home</a></li>\n            <li><a href=\"/login/\">Login</a></li>\n
+        \           <li><a href=\"/signup/\">Signup</a></li>\n          </ul>\n        </div>\n
+        \     </div>\n    </div>\n<div id=\"toolbar\" class=\"empty\"></div>\n  <div
+        id=\"content\">\n    <div class=\"wrapper\">\n\n      <div class=\"section\"
+        id=\"people\">\n\t            <div id=\"hcard-UserDemo\" class=\"profile vcard\">\n
+        \         <img class=\"avatar profile-pic\" src=\"&#x2f;images&#x2f;avatars&#x2f;userdemo&#x2e;jpg\"
+        alt=\"userdemo\" width=\"90\" height=\"90\" />\n          <h2>User Demo <span>userdemo</span></h2>\n
+        \         <ul class=\"details\">\n            <li class=\"icon-location\">Salvador,
+        BRA</li>            <li class=\"icon-url\"><a href=\"http&#x3a;&#x2f;&#x2f;wishlistr&#x2e;com\"
+        \ rel=\"nofollow\">http:&#x2F;&#x2F;wishlistr.com</a></li>                          <li>\n
+        \               <a href=\"#\" class=\"service\" rel=\"tooltip\" title=\"Birthday:
+        1991-10-30\"><i class=\"icon-birthday\"></i><em>30 October, 1991</em></a>\n
+        \             </li>\n                      </ul>\n                      <p
+        class=\"btn buttons\">\n            \n                        <a href=\"/userdemo/\"
+        title=\"Click to view User&#x20;Demo's wishlist.\">Wishlist</a>\n            \n
+        \         \t</p>\n\n                            </div>\n\n        <h3 class=\"stats-header\">Wishlist
+        Stats</h3>\n        <ul class=\"stats\">\n          <li>\n            <strong>3</strong>\n
+        \           <em>Items</em>\n          </li>\n          <li>\n            <strong>1</strong>\n
+        \           <em>View</em>\n          </li>\n          <li>\n            <strong>3</strong>\n
+        \           <em>Links</em>\n          </li>\n          <li>\n            <strong>0</strong>\n
+        \           <em>Clicks</em>\n          </li>\n        </ul>\n                <ul
+        class=\"details updated\">\n          <li class=\"icon-time\">Last item added
+        July 27, 2015</li>\n        </ul>\n              </div>\n\n\t         <div
+        class=\"aside\" id=\"aside\">\n          <ul class=\"user-stats\">\n            <li><a
+        href=\"/profile/userdemo/followers/\">0 <span>Followers</span></a></li>\n
+        \           <li><a href=\"/profile/userdemo/following/\"><div id=\"followingCount\">1</div>
+        <span>Following</span></a></li>\n            <li><a href=\"/userdemo/\"><div
+        id=\"itemCount\">3</div> <span id=\"itemText\">Items</span></a></li>\n          </ul>\n\n
+        \                   <h3>About User Demo</h3>\n          Lorem ipsum dolor
+        sit amet, consectetur adipiscing elit. Nam ullamcorper sapien et eleifend
+        aliquam. Maecenas facilisis aliquet mauris.          \n                    <div
+        class=\"following-info\">\n            <h3>Following</h3>\n                      </div>\n
+        \         <ul class=\"follow-list\">\n                        <li><a href=\"/diegocosta\"><img
+        src=\"/images/avatars/diegocosta.jpg\" alt=\"diegocosta\" width=\"32\" height=\"32\"></a></li>\n\t\t
+        \             </ul>\n          <p class=\"more-friends\">\n                    <a
+        href=\"/explore/search\">Find friends</a> <span>|</span>\n          <a href=\"/\">Sign
+        up/Login</a>          </p>\n                  </div>\n\n    \n    <form action=\"/\"
+        class=\"hidden\">\n            <input type=\"hidden\" name=\"pltoken\" id=\"pltoken\"
+        value=\"ffbd7173bd36c796420fa3e68e0628ae\" />\n    </form>\n\n  </div>\n</div>
+        <!-- Closes #content -->\n\n\n<div id=\"footer\">\n  <div class=\"inner-wrap\">\n
+        \   <p class=\"logo\">\n      <a href=\"/\">\n        <img src=\"/images/logo-footer.png\"
+        width=\"109\" height=\"25\" />\n      </a>\n    </p>\n    <p class=\"footer-nav\">\n\t\t
+        \ <a href=\"/about/\" class=\"first\">About</a> |\n\t\t  <a href=\"/help/\">FAQ</a>
+        |\n\t\t  <a href=\"/blog/\">Blog</a> |\n\t\t  <a href=\"/contact/\">Contact</a>
+        |\n\t\t  <a href=\"/about/terms-of-use/\">Terms</a> |\n\t\t  <a href=\"/about/privacy-policy/\">Privacy</a>\n
+        \   </p>\n    <p>Copyright &copy; Wishlistr 2005-2015. All rights reserved.</p>\n
+        \ </div>\n</div>\n\n</div>\n</div>\n\n  <script src=\"/_lib/js/core.min.js\"
+        type=\"text/javascript\"></script>\n  <script src=\"/_lib/js/people.min.js\"
+        type=\"text/javascript\"></script>\n  <script src=\"/_lib/js/tooltip.min.js\"
+        type=\"text/javascript\"></script>\n\n</body>\n</html>\n"
+    http_version: 
+  recorded_at: Mon, 27 Jul 2015 13:15:01 GMT
+recorded_with: VCR 2.9.3
